@@ -4,7 +4,7 @@ use davidmgilo\SayHello;
 //use HelloWorld\SayHello as SayHello2;
 
 //trobarà qualsevol classe del projecte
-require 'vendor/autoload.php';
+require __DIR__ .'vendor/autoload.php'; //és més robust.
 
 require 'src/SayHello.php';
 
