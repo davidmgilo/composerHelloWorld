@@ -1,6 +1,6 @@
 <?php
 
-namespace davidmgilo;
+namespace Davidmgilo\Hello;
 
 /**
  * Created by PhpStorm.
