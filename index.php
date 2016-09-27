@@ -1,6 +1,7 @@
 <?php
 
 use davidmgilo\SayHello;
+//use HelloWorld\SayHello as SayHello2;
 
 //trobarà qualsevol classe del projecte
 require 'vendor/autoload.php';
